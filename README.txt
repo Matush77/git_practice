@@ -1,3 +1,3 @@
 Hello Git and GitHub
 
-Testing line 
+#line has been removed
